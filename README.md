@@ -12,7 +12,7 @@ The dashboard enables users to analyze employee information at both organization
 
 > Add screenshot here
 
-![HR Summary](images/hr_summary.png)
+![HR Summary]([images/hr_summary.png](https://github.com/rhanand01/HR-Analystics-Dashboard/edit/main/README.md#:~:text=HR%2DData%2D-,preview,-.png))
 
 ---
 
@@ -20,7 +20,7 @@ The dashboard enables users to analyze employee information at both organization
 
 > Add screenshot here
 
-![HR Details](images/hr_details.png)
+![HR Details]([images/hr_details.png](https://github.com/rhanand01/HR-Analystics-Dashboard/edit/main/README.md#:~:text=HR%2D-,Dashaboard,-.png))
 
 ---
 
