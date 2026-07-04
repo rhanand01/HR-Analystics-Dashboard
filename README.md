@@ -10,13 +10,13 @@ The dashboard enables users to analyze employee information at both organization
 
 ### HR Summary Dashboard
 
-![HR Summary]((https://github.com/rhanand01/HR-Analystics-Dashboard/edit/main/README.md#:~:text=HR%2D-,Dashaboard,-.png)](https://github.com/rhanand01/HR-Analystics-Dashboard/blob/main/images/HR-Data-preview.png))
+![HR Summary]((https://github.com/rhanand01/HR-Analystics-Dashboard/blob/main/images/HR-Data-preview.png))
 
 ---
 
 ### HR Details Dashboard
 
-![HR Details]((https://github.com/rhanand01/HR-Analystics-Dashboard/edit/main/README.md#:~:text=HR%2DData%2D-,preview,-.png)](https://github.com/rhanand01/HR-Analystics-Dashboard/blob/main/images/HR-Dashaboard.png))
+![HR Details]((https://github.com/rhanand01/HR-Analystics-Dashboard/blob/main/images/HR-Dashaboard.png))
 
 ---
 
